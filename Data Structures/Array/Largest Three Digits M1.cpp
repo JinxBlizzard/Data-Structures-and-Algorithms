@@ -1,6 +1,7 @@
 // Method 1 : TC -> O(n)
 
 #include <iostream>
+#include <climits> // To use INT_MIN
 using namespace std;
 
 // Main Function Code
